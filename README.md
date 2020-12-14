@@ -3,8 +3,7 @@
 <hr>
 <b>Đồ án Web PHP</b><br>
 
-<br>
-Github: <a href="https://github.com/manhkhac/MVC-Shop-SSHOP">https://github.com/wawahuy/MVC-Shop-SSHOP/</a>
+<br
 
 <br>
 <u>Sql Diagram</u>:<br>
